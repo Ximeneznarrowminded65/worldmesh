@@ -3,11 +3,19 @@ Official implementation of *WorldMesh: Generating Navigable Multi-Room 3D Scenes
 
 WorldMesh generates large, navigable multi-room 3D scenes from text prompts by first constructing an explicit mesh scaffold for geometric consistency, then conditioning image diffusion on that scaffold to produce photorealistic, 3D-consistent appearance across arbitrarily many rooms.
 
-[[arXiv]] [[Project Page](https://mschneider456.github.io/world-mesh/)] [[Video](https://youtu.be/MKMEbPT38-s)]
+[[arXiv](https://arxiv.org/abs/2603.22972)] [[Project Page](https://mschneider456.github.io/world-mesh/)] [[Video](https://youtu.be/MKMEbPT38-s)]
 
 ![Teaser](./teaser.jpg)
 
 If you find WorldMesh useful, please cite:
 ```
-@misc{TBD}
+@misc{schneider2026worldmeshgeneratingnavigablemultiroom,
+      title={WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion}, 
+      author={Manuel-Andreas Schneider and Angela Dai},
+      year={2026},
+      eprint={2603.22972},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.22972}, 
+}
 ```
